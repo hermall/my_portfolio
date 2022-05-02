@@ -6,4 +6,11 @@ The purpose of this project was to create a portfolio site that hosted basic abo
 2. Rename the directory to reflect the new project name
 3. Delete .git folder
 4. Open index.html
-    - Under "<div id="header">" change your name, university, and degree
+    - In the head section under the title either remove lines 8-15 or update to your Google Analytics tracking tag
+    - Under the header division ID change your name, university, and degree
+    - Change the href links to your GitHub and LinkedIn profiles
+    - Under the contentTitle division class change the bio to your bio
+    - The last line of code (line 51) remove/change the Google Analytics tracking number
+5. Open style.css to adjust any background or text colors
+6. Set up a static web page in Azure
+    - 
