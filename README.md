@@ -6,4 +6,4 @@ The purpose of this project was to create a portfolio site that hosted basic abo
 2. Rename the directory to reflect the new project name
 3. Delete .git folder
 4. Open index.html
-    - Under <div id="header"> change your name, university, and degree
+    - Under "<div id="header">" change your name, university, and degree
